@@ -1,0 +1,22 @@
+1 B.
+Comp 484
+- Structuring Pages
+    -Conveying meaning through structure
+        -Sectioning elements
+        -Document outlines
+             -W3C Warning
+       - WAI-ARIA Roles
+
+The document outline begins with the site heading Comp 484, followed by the page heading Structuring Pages. The main article is titled Conveying meaning through structure. Under that are the major sections Sectioning elements, Document outlines, and WAI-ARIA Roles. The Document outlines section also contains a subsection called W3C Warning.
+
+The <nav> element contains the site navigation links. The <article> element contains the main self-contained content of the page. The <section> elements break the article up into sections related to each topic. The <aside> element contains the W3C Warning because while it supports information related to the Document outlines section, it isn't really considered part of the main discussion.
+
+1 C.
+<header> – Contains the site/page headings and navigation. A second header is used to introduce the article.
+<main> – Contains the primary content of the page.
+<footer> – Contains the CSUN information at the bottom of the page.
+<nav> – Contains the navigation links to the other pages.
+<article> – Contains the main article content.
+<section> – Divides the article into different topics.
+<aside> – Contains the W3C Warning, which is additional information related to the main content.
+
